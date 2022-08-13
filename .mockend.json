@@ -4,7 +4,7 @@
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     },
     "title": {
-      "loremWords": {
+      "hello": {
         "minLength": 5,
         "maxLength": 20
       }
